@@ -95,7 +95,7 @@ sudo apt update
 sudo apt install -y clamav clamav-daemon python3-gi gir1.2-gtk-3.0 gir1.2-xapp-1.0 meson git
 
 # 2. Clone repository
-git clone https://github.com/YOUR-USERNAME/xclamav.git
+git clone https://github.com/QA-EA/xclamav.git
 cd xclamav
 
 # 3. Install XClamAV
